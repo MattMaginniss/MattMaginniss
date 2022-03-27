@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more in-depth data science.
 - 👯 I’m looking to collaborate on the [Lichess repo.](https://github.com/ornicar/lila) :)
 - 💻 I use **.js**, **.py** and **MongoDB** daily at work.
-- 📖 I'm currently reading [How to Build a Car by Adrian Newey](https://www.harpercollins.com/products/how-to-build-a-car-the-autobiography-of-the-worlds-greatest-formula-1-designer-adrian-newey?variant=32179469189154)
+- 📖 I'm currently reading [Project Hail Mary by Andy Weir](https://www.andyweirauthor.com/books/project-hail-mary-hc/project-hail-mary-el)
 - 💬 Ask me about Hockey or Formula 1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am very cool and moving to [Monza, Italy](https://www.google.com/maps/place/20900+Monza,+Monza+und+Brianza,+Italieny) _soon_.
