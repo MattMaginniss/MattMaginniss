@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on the [Lichess repo.](https://github.com/ornicar/lila) :)
 - 💻 I use **.js**, **.py** and **MongoDB** daily at work.
 - 📖 I'm currently reading [Leviathan Wakes by James S A Corey](https://www.hachettebookgroup.com/titles/james-s-a-corey/leviathan-wakes/9780316129084/?lens=orbit)
-- 💬 Ask me about Hockey or Formula 1
+- 💬 Ask me about AFC Wimbledon or Formula 1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am very cool and moving to [Monza, Italy](https://www.google.com/maps/place/20900+Monza,+Monza+und+Brianza,+Italieny) _soon_.
 
