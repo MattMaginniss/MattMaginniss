@@ -7,7 +7,6 @@
 - 📖 I'm currently reading [Leviathan Wakes by James S A Corey](https://www.hachettebookgroup.com/titles/james-s-a-corey/leviathan-wakes/9780316129084/?lens=orbit)
 - 💬 Ask me about AFC Wimbledon or Formula 1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am very cool and moving to [Monza, Italy](https://www.google.com/maps/place/20900+Monza,+Monza+und+Brianza,+Italieny) _soon_.
 
 
 [<img alt="Github Logo" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/MatthewMaginniss)
