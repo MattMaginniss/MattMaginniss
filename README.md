@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning more in-depth data science.
 - 👯 I’m looking to collaborate on the [Lichess repo.](https://github.com/ornicar/lila) :)
 - 💻 I use **.js**, **.py** and **MongoDB** daily at work.
-- 📖 I'm currently reading [Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin](https://www.penguinrandomhouse.com/books/690750/tomorrow-and-tomorrow-and-tomorrow-by-gabrielle-zevin/)
+- 📖 I'm currently reading [The Handmaid's Tale by Margaret Atwood](https://www.penguinrandomhouse.com/books/557793/the-handmaids-tale-movie-tie-in-by-margaret-atwood/)
 - 💬 Ask me about AFC Wimbledon or Formula 1
 - 😄 Pronouns: He/Him
 
 
-[<img alt="Github Logo" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/MatthewMaginniss)
+[<img alt="Github Logo" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/MattMaginniss)
 [<img alt="Gmail Logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:me@matthewmaginniss.com)
-[<img alt="LinkedIn Logo" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matthew-maginniss/)
+[<img alt="LinkedIn Logo" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matt-maginniss/)
 
 ## 👨‍💻 *Tech Stack I am Familiar With*:
 
@@ -20,6 +20,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
+  <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" style="margin:2px;"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin:2px;"/>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="margin:2px;"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
