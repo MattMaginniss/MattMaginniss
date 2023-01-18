@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more in-depth data science.
 - 👯 I’m looking to collaborate on the [Lichess repo.](https://github.com/ornicar/lila) :)
 - 💻 I use **.js**, **.py** and **MongoDB** daily at work.
-- 📖 I'm currently reading [The Handmaid's Tale by Margaret Atwood](https://www.penguinrandomhouse.com/books/557793/the-handmaids-tale-movie-tie-in-by-margaret-atwood/)
+- 📖 I'm currently reading [The Great Gatsby by F. Scott Fitzgerald](https://www.planetebook.com/the-great-gatsby/)
 - 💬 Ask me about AFC Wimbledon or Formula 1
 - 😄 Pronouns: He/Him
 
@@ -40,7 +40,7 @@
 
 ## 🏠 My website
 
-## [MattMaginniss.com](https://matthewmaginniss.com)
+## [MattMaginniss.com](https://mattmaginniss.com)
 
 ### Still a work in progress. Please do not judge it too harshly just yet but below you can find the PageSpeed insights.
 
