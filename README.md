@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more in-depth data science.
 - 👯 I’m looking to collaborate on the [Lichess repo.](https://github.com/ornicar/lila) :)
 - 💻 I use **.js**, **.py** and **MongoDB** daily at work.
-- 📖 I'm currently reading [The Great Gatsby by F. Scott Fitzgerald](https://www.planetebook.com/the-great-gatsby/)
+- 📖 I'm currently reading [The Handmaids Tale by Margaret Atwood](https://bookshop.org/p/books/the-handmaid-s-tale-margaret-atwood/7333453?ean=9780385490818)
 - 💬 Ask me about AFC Wimbledon or Formula 1
 - 😄 Pronouns: He/Him
 
