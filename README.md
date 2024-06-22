@@ -71,7 +71,7 @@
 
 <div align="center">
   
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=traitormatt&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=traitormatt&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
 </div>
 
 ---
