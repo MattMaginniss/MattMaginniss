@@ -21,9 +21,10 @@
 ### At Work:
 <p align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=node.js&logoColor=white&style=for-the-badge" style="margin:2px;"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white&style=for-the-badge" style="margin:2px;"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge" style="margin:2px;"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" style="margin:2px;"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <br/>
