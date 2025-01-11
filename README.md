@@ -23,9 +23,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=node.js&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white&style=for-the-badge" style="margin:2px;"/>
-  <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge" style="margin:2px;"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <br/>
@@ -34,16 +32,14 @@
 ### For Fun:
 <p align="center">
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white&style=for-the-badge" style="margin:2px;"/>
-  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
-  <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Godot" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine&style=for-the-badge" style="margin:2px;"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?logo=node.js&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge" style="margin:2px;"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge" style="margin:2px;"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <br/>
 </p>
 
@@ -56,12 +52,14 @@
   <img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?logo=WordPress&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Maria DB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" style="margin:2px;"/>
-  <img alt="WordPress" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge" style="margin:2px;"/>
   <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
-  <img alt="Electron" src="https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white&style=for-the-badge" style="margin:2px;"/>
-
+  <img alt="Rails" src="https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white&style=for-the-badge" style="margin:2px;"/>
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
+  <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&style=for-the-badge" style="margin:2px;"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" style="margin:2px;"/>
   <br/>
 </p>
 
