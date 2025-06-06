@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more in-depth data science.
 - 👯 I’m looking to collaborate on the [Lichess repo.](https://github.com/ornicar/lila) :)
 - 💻 I use **.js**, **.rs**, **.py** and **MongoDB** daily at work.
-- 📖 I'm currently reading [Leviathan Wakes by James S.A. Corey](https://bookshop.org/p/books/leviathan-wakes-james-s-a-corey/109822)
+- 📖 I'm currently reading [Leviathan Falls by James S.A. Corey](https://bookshop.org/p/books/leviathan-falls-james-s-a-corey/18603759)
 - 💬 Ask me about AFC Wimbledon or Formula 1
 - 😄 Pronouns: He/Him
 
